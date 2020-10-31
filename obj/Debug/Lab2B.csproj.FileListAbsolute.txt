@@ -1,0 +1,10 @@
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 2\Lab2A\Lab2B\bin\Debug\Lab2B.exe.config
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 2\Lab2A\Lab2B\bin\Debug\Lab2B.exe
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 2\Lab2A\Lab2B\bin\Debug\Lab2B.pdb
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 2\Lab2A\Lab2B\obj\Debug\Lab2B.csprojAssemblyReference.cache
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 2\Lab2A\Lab2B\obj\Debug\Lab2B.Form1.resources
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 2\Lab2A\Lab2B\obj\Debug\Lab2B.Properties.Resources.resources
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 2\Lab2A\Lab2B\obj\Debug\Lab2B.csproj.GenerateResource.cache
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 2\Lab2A\Lab2B\obj\Debug\Lab2B.csproj.CoreCompileInputs.cache
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 2\Lab2A\Lab2B\obj\Debug\Lab2B.exe
+D:\S 3\COMP10204 (Programming in .NET)\Assignments\Assignment 2\Lab2A\Lab2B\obj\Debug\Lab2B.pdb
